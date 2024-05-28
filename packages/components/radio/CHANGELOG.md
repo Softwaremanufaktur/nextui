@@ -1,5 +1,11 @@
 # @nextui-org/radio
 
+## 2.1.1
+
+### Patch Changes
+
+- [#3110](https://github.com/nextui-org/nextui/pull/3110) [`41d2eeb20`](https://github.com/nextui-org/nextui/commit/41d2eeb20bde3182306f134ba619942e182d0998) Thanks [@ryo-manba](https://github.com/ryo-manba)! - Remove required attribute for Radio with validationBehavior="aria"
+
 ## 2.1.0
 
 ### Minor Changes

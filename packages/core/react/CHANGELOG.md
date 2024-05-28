@@ -1,5 +1,14 @@
 # @nextui-org/react
 
+## 2.4.1
+
+### Patch Changes
+
+- Updated dependencies [[`41d2eeb20`](https://github.com/nextui-org/nextui/commit/41d2eeb20bde3182306f134ba619942e182d0998)]:
+  - @nextui-org/radio@2.1.1
+  - @nextui-org/calendar@2.0.5
+  - @nextui-org/date-picker@2.1.0
+
 ## 2.4.0
 
 ### Minor Changes
